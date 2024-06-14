@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserTopUpService", "UserTopUpService.csproj", "{91D64717-F9DA-4B6D-A56B-45B6C40165B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserBalance", "..\UserBalance\UserBalance.csproj", "{D8403980-AB14-444A-81E7-D3276D96BEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D64717-F9DA-4B6D-A56B-45B6C40165B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D64717-F9DA-4B6D-A56B-45B6C40165B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D64717-F9DA-4B6D-A56B-45B6C40165B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D64717-F9DA-4B6D-A56B-45B6C40165B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8403980-AB14-444A-81E7-D3276D96BEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8403980-AB14-444A-81E7-D3276D96BEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8403980-AB14-444A-81E7-D3276D96BEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8403980-AB14-444A-81E7-D3276D96BEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D095416-7E47-4C70-A86C-FC81174AEE62}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c5ibk26hHqpBqQYwg6DGdQh/bRpST6FhJF9WYJHAIU0=",
+  "Source": "UserTopUpService",
+  "BasePath": "_content/UserTopUpService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
